@@ -760,7 +760,7 @@ xpd:
   iso_code: XPD
   iso_numeric: "964"
   html_code: ""
-  symbol: oz t
+  symbol: oz
   minor_unit: oz
   minor_unit_conversion: 1
   smallest_denomination:
@@ -788,7 +788,7 @@ xpt:
   iso_code: XPT
   iso_numeric: "962"
   html_code: ""
-  symbol: oz t
+  symbol: oz
   minor_unit: ""
   minor_unit_conversion: 1
   smallest_denomination: ""
@@ -1236,7 +1236,7 @@ xag:
   iso_code: XAG
   iso_numeric: "961"
   html_code: ""
-  symbol: oz t
+  symbol: oz
   minor_unit: oz
   minor_unit_conversion: 1
   smallest_denomination:
@@ -1250,7 +1250,7 @@ xau:
   iso_code: XAU
   iso_numeric: "959"
   html_code: ""
-  symbol: oz t
+  symbol: oz
   minor_unit: oz
   minor_unit_conversion: 1
   smallest_denomination:
